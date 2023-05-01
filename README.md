@@ -6,6 +6,5 @@
 
 This is a really awesome website
 
-Updated readme file
 
 Now editing on update-readme branach
