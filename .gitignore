@@ -10,6 +10,9 @@ lerna-debug.log*
 =======
 >>>>>>> 46c476321eb8d84f27e5fabf74ab535421d754d8
 
+#Mac OS temp files
+.DS_Store
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
